@@ -1,4 +1,4 @@
-import os  # Unused import
+#import os  # Unused import
 
 
 def sample_function():
