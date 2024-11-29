@@ -1,4 +1,4 @@
-name: Linting Pipeline
+name: Linting pipeline
 
 on: [push, pull_request]
 
